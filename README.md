@@ -1,2 +1,2 @@
 # fullSatckJS-Assignment1
-weather report
+weather report represented in the form of doughnut chart
